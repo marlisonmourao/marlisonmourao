@@ -1,7 +1,5 @@
 ### Olá! Eu sou o marlisonmourao
 
-- 🔭 Hoje trabalho com mobile
-- 🌱 Estudando Typescript
 
 <div align="center">
   <a href="https://github.com/marlisonmourao">
